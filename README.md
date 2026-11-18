@@ -132,3 +132,5 @@ plt.show()
 
 
 ## Result
+Thus, the Multilayer Perceptron (MLP) neural network was successfully implemented for handwritten digit classification using the Digits dataset. The model achieved a test accuracy of 98%, and its loss curve was plotted successfully.
+
